@@ -5,9 +5,6 @@
 <br />
 <div>
   <a href="https://github.com/leokporto">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto)](https://github.com/anuraghazra/github-readme-stats)
-    
-    <br />
     
   <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leokporto&show_icons=true&theme=default"/>
