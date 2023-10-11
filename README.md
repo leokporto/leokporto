@@ -1,14 +1,15 @@
 ### Hello, I'm Leonardo Porto
 
 - 💻 .Net developer at <a href="http://spinengenharia.com.br">SPINEng</a>
+- :book: I’m currently learning <a href="https://go.dev/">GO</a> and IEC 104
 
 <br />
 <div>
-  <a href="https://github.com/leokporto">
-    
-  <!--
+  <!--<a href="https://github.com/leokporto">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leokporto&show_icons=true&theme=default"/>
-  
+  <br />
+    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto&layout=compact"/>-->
+  <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto&layout=compact&langs_count=7&theme=default"/>
   -->
 </div>
