@@ -5,7 +5,7 @@
 <br />
 <div>
   <a href="https://github.com/leokporto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto&layout=compact&exclude_repo=leokporto,obsidian&langs_count=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto&layout=compact&exclude_repo=leokporto,obsidian"/>
     <br />
     
   <!--
