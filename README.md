@@ -5,7 +5,8 @@
 <br />
 <div>
   <a href="https://github.com/leokporto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto&layout=compact&exclude_repo=leokporto,obsidian"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto)](https://github.com/anuraghazra/github-readme-stats)
+    
     <br />
     
   <!--
