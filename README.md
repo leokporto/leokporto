@@ -24,7 +24,7 @@
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />  
 </div>
 <div style="display: inline_block"><br />
-  <a href="https://www.linkedin.com/in/leonardo-klarmann-porto-466a7921/">
+  <a href="https://www.linkedin.com/in/leokporto/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
