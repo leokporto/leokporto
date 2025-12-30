@@ -1,7 +1,7 @@
 ### Hello, I'm Leonardo Porto
 
 - 💻 .Net developer at <a href="http://spinengenharia.com.br">SPINEng</a>
-- :book: I’m currently learning <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />.
+- :book: I’m currently learning <img height=32 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />.
 
 <br />
 <div>
