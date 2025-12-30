@@ -1,7 +1,7 @@
 ### Hello, I'm Leonardo Porto
 
 - 💻 .Net developer at <a href="http://spinengenharia.com.br">SPINEng</a>
-- :book: I’m currently learning <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/?view=aspnetcore-8.0">Blazor</a> and IEC 104 communication protocol.
+- :book: I’m currently learning <i class="devicon-go-original-wordmark colored"></i>.
 
 <br />
 <div>
