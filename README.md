@@ -1,7 +1,8 @@
 ### Hello, I'm Leonardo Porto
 
-- 💻 .Net developer at <a href="http://spinengenharia.com.br">SPINEng</a>
-- :book: I’m currently learning <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />.
+- 💻 I'm a software developer with 25+ years of experience in .NET solution development and architecture, working on desktop applications, web, and distributed services. I'm passionate about cloud native technologies and modern application development. Specialist in C#, ASP.NET Core, SQL Server, and knowledge in Docker, with solid experience in team management and modernization of SCADA systems.
+
+- :book: I'm currently exploring Go for backend development and React with TypeScript for frontend applications, aiming to expand my expertise in cloud native solutions.
 
 <br />
 <div>
@@ -16,9 +17,12 @@
 <div style="display: inline_block"><br />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"'alt="react" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" /> 
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />  
