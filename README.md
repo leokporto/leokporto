@@ -1,6 +1,20 @@
 ### Hello, I'm Leonardo Porto
 
-- 💻 I'm a software developer with 25+ years of experience in .NET solution development and architecture, working on desktop applications, web, and distributed services. I'm passionate about cloud native technologies and modern application development. Specialist in C#, ASP.NET Core, SQL Server, and knowledge in Docker, with solid experience in team management and modernization of SCADA systems.
+💻 Software Architect and Senior Developer with 25+ years of experience delivering complex, mission-critical systems in industrial automation and distributed environments.
+
+Currently serving as Development and IT Manager at Spin Engenharia de Automação, leading architecture design, system evolution, and technical teams while remaining hands-on in software development. Proven track record of building scalable, high-availability systems with strong emphasis on reliability, performance, and maintainability.
+
+Expert in .NET ecosystem (C#, ASP.NET Core, WPF), with solid experience in distributed systems, microservices, and modern architectural patterns such as Clean Architecture and Event Sourcing. Strong background in designing and integrating systems across multiple protocols and services.
+
+Extensive experience with SCADA platforms and real-time systems, including integration with industrial protocols such as IEC 60870-5-104, DNP3, OPC, and IEC 61850. Delivered solutions for critical infrastructure environments, including power utilities.
+
+Skilled in driving digital transformation initiatives, including system modernization, DevOps adoption, CI/CD pipeline automation, and observability practices. Hands-on experience with Docker and secure authentication/identity solutions (Entra ID).
+
+Also focused on building internal platforms and tools to improve traceability, automate processes, and increase operational efficiency.
+
+Interested in applied research and innovation, particularly in leveraging AI to enhance software development and creating simulation environments for IEC 61850-based systems.
+
+Pragmatic, results-driven professional with a strong engineering mindset and a consistent focus on delivering business value in high-demand environments.
 
 - :book: I'm currently exploring Go for backend development and React with TypeScript for frontend applications, aiming to expand my expertise in cloud native solutions.
 
@@ -33,17 +47,3 @@
   </a>
 </div>
 
-<!--
-**leokporto/leokporto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
