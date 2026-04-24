@@ -28,7 +28,7 @@ Pragmatic, results-driven professional with a strong engineering mindset and a c
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leokporto&layout=compact&langs_count=7&theme=default"/>
   -->
 </div>
-<div style="display: inline_block"><br />
+<div style="display:inline-block"><br />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img height="32" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" />
