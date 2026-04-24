@@ -1,4 +1,4 @@
-### Hello, I'm Leonardo Porto
+### Hello, I'm Leonardo Klarmann Porto
 
 💻 Software Architect and Senior Developer with 25+ years of experience delivering complex, mission-critical systems in industrial automation and distributed environments.
 
